@@ -4,9 +4,9 @@ Please select the syllabus above to see it rendered to html.
 
 To view the notes properly, you need to  have a sufficient python installation and use jupyter. Running online is no longer permitted due to copyright issues. 
 
-<!---[Run the notebooks online! All new faster launching!!! Jupyter notebook style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210) (classic- includes video telecon)
+[Run the notebooks online! All new faster launching!!! Jupyter notebook style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210_public) (classic- includes video telecon)
 
-[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210&branch=master&app=lab)
+<!---[Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210&branch=master&app=lab)
 
 [Run the notebooks online! Jupyter Lab style:](https://mybinder.org/v2/gh/josephcslater/controls_binder/master?urlpath=git-pull?repo=https://github.com/josephcslater/Tennessee_Tech_ECE_3210&branch=master&app=lab) (more full-featured editors)  
 [//]: Note: interactive widgets don't work well for me in this yet. 

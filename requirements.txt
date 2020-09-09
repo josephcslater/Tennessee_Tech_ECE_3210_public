@@ -1,0 +1,9 @@
+# scipy
+# matplotlib
+pysfg
+graphviz
+# sympy
+# control
+strictyaml
+networkx
+jupyter_contrib_nbextensions

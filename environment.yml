@@ -1,0 +1,19 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sympy
+  - scipy
+  - matplotlib
+  - slycot
+  - control
+  - graphviz
+  - xdg
+  - nodejs
+  - widgetsnbextension
+  - ipywidgets
+  - rise
+  - pip
+  - pip:
+    - -r requirements.txt

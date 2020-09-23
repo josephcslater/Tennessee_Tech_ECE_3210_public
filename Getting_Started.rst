@@ -125,6 +125,13 @@ Windows Users
 Mac Users
 ~~~~~~~~~
 
+I have seen problems with recent installations. Please follow these instructions below. **Two** errors can happen:
+
+  1. Failure to find the right python at the prompt.
+  Type: `which python`. If you don't see your home directory, your path is wrong. It means you are using z-shell in Catalina (MacOS X 10.15). Please `follow these instructions`_.
+
+  2. **Failure to solve**. If you see this, go to `this page`_.
+
 - Find the ``Terminal.app``. It is located in your ``/Applications/Utilities`` folder. Answer *yes* to all prompts.
 
   - Quick tip- command-key space-bar, then type 'Terminal' may launch it if Spotlight is set up correctly.
@@ -207,3 +214,5 @@ Recommended Books
 .. _`GitKraken`: https://www.gitkraken.com/
 .. _`the repository for this class in your web browser`: https://github.com/josephcslater/Introduction_to_Python
 .. _`submit a pull request`: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+.. _`follow these instructions`: https://medium.com/@sumitmenon/how-to-get-anaconda-to-work-with-oh-my-zsh-on-mac-os-x-7c1c7247d896
+.. _`this page`: https://github.com/josephcslater/Tennessee_Tech_ECE_3210/blob/master/controls_environment.rst

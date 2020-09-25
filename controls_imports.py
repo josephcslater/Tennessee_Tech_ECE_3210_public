@@ -12,6 +12,13 @@ s = sym.symbols('s', positive = True)
 x = sym.Function('x')
 y = sym.Function('y')
 f = sym.Function('f')
+import numpy.polynomial.polynomial as p
+from numpy.polynomial import Polynomial as display_poly
+from numpy.polynomial import Polynomial as poly_display
+j = complex(0,1)
+i = complex(0,1)
+from numpy import e, pi
+
 
 def ctrl_ilt(expr):
     ilt = 0

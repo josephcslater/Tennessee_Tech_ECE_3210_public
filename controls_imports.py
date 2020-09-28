@@ -69,6 +69,6 @@ def sdof_resp(x0=1, v0=0.1, m=1, c=0.25, k=10, tmax=10):
     plt.xlabel('$t$ (sec)')
     plt.ylabel('$x(t)$ (m)')
     plt.grid(True)
-    plt.title('x versus time. $\\zeta = ${:.2f}'.format(zeta))
+    plt.title('$x$ versus time. $\\zeta = ${:.2f}'.format(zeta))
     plt.legend(bbox_to_anchor=(1.1, 1.05))
     plt.show()

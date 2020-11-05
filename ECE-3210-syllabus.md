@@ -53,7 +53,7 @@ Flipped classroom. Online lectures/video with in-class/home problem solving.
 
 1.  Mathematical background: Laplace transform and applications (5%)
 
-2.  Transfer functions and signal-glow graphs: impulse response,
+2.  Transfer functions and signal-flow graphs: impulse response,
 transfer function, block diagram, signal flow graph (5%)
 
 3.  Frequency domain modeling of physical systems-Transfer Function:
